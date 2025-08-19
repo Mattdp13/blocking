@@ -1,0 +1,53 @@
+
+# https://lifehacker.com/tech/how-to-block-ads-on-your-smart-tv
+
+# Samsung
+0.0.0.0 samsungads.com
+0.0.0.0 vents.samsungads.com
+0.0.0.0 onfig.samsungads.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 tvx.adgrx.com
+0.0.0.0 samsungotn.net
+0.0.0.0 samsungrm.net
+0.0.0.0 samsung.net/ads
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungcloudsolution.com
+0.0.0.0 samsungcloudsolution.net
+0.0.0.0 ads.samsungads.com
+0.0.0.0 amsungadhub.com
+0.0.0.0 osb-krsvc.samsungqbe.com
+0.0.0.0 xpu.samsungelectronics.com
+0.0.0.0 zpu.samsungelectronics.com
+
+# LG
+0.0.0.0 ngfts.lge.com
+0.0.0.0 us.ad.lgsmartad.com
+0.0.0.0 us.info.lgsmartad.com
+0.0.0.0 lgad.cjpowercast.com
+0.0.0.0 edgesuite.net
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 smartclip.com
+0.0.0.0 smartclip.net
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 us.ibs.lgappstv.com
+0.0.0.0 us.lgtvsdp.com
+0.0.0.0 us.rdx2.lgtvsdp.com
+0.0.0.0 yumenetworks.com
+0.0.0.0 aic-ngfts.lge.com
+
+# Roku
+0.0.0.0 cooper.logs.roku.com
+0.0.0.0 track.sr.roku.com
+0.0.0.0 p.ads.roku.com
+0.0.0.0 bif.sr.roku.com
+0.0.0.0 traces.sr.roku.com
+0.0.0.0 cloudservices.roku.com
+0.0.0.0 scribe.logs.roku.com
+0.0.0.0 amarillo.sb.roku.com
+0.0.0.0 ravm.tv
+0.0.0.0 captive.roku.com
+
+0.0.0.0 edge.x1-app.xcr.comcast.net
+0.0.0.0 internetat.tv
